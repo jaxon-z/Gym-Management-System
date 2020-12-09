@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="GymManagement/src"/>
+	<classpathentry kind="lib" path="GymManagement/lib/absolutelayout/AbsoluteLayout.jar"/>
+	<classpathentry kind="lib" path="GymManagement/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="lib" path="GymManagement/lib/JCalendar.jar"/>
+	<classpathentry kind="lib" path="GymManagement/lib/mysql-connector-java-8.0.21.jar"/>
+	<classpathentry kind="lib" path="GymManagement/lib/rs2xml.jar"/>
+	<classpathentry kind="output" path="GymManagement/build/classes"/>
+</classpath>
